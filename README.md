@@ -1,6 +1,6 @@
 <img src="https://storage.googleapis.com/golden-wind/experts-club/capa-github.svg" />
 
-# Criando consulta avançadas com Spring Data JPA Specifications
+# Criando consultas avançadas com Spring Data JPA Specifications
 
 Nessa aula aprenderemos como utilizar as specifications e os predicados do Spring Data JPA para criar
 consultas avançadas e dinâmicas em nossa API RESTful.
